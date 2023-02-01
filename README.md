@@ -1,7 +1,6 @@
 ### Chris Hubbs
 - Expert in aircraft software certification
 - Github projects are for fun!
-- I run [YAMMPOD (dot) INFO](https://yammpod.info) and generate it automatically out of a Github repo using Hugo and Netlify
 - Find me at [chrishubbs.com](https://chrishubbs.com)
 
 <!---
